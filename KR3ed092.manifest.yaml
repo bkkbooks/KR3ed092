@@ -24,10 +24,10 @@ assets:
   - {seq: 4, filename: KR3ed092_004.yaml, hash: 'sha256:11c492e5afb333f1334d7ad1a0af3170c5a5067670d09851fe241f808039054a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ed092_000.markers.yaml, hash: 'sha256:6884c7b37782e222adbc90cfa759a900c31238ef9491cd9d4717398d6c514fad'}
-  - {seq: 1, role: markers, filename: assets/KR3ed092_001.markers.yaml, hash: 'sha256:fe3fe690a33a39a6d6a4a33a35b1bd3f91b9c66757a2415e23f358adf503bf60'}
-  - {seq: 2, role: markers, filename: assets/KR3ed092_002.markers.yaml, hash: 'sha256:9b3982191f538a28ce44a087f850f3da80ae249bbb17cfc83f3322e3321e3b0a'}
-  - {seq: 3, role: markers, filename: assets/KR3ed092_003.markers.yaml, hash: 'sha256:eca2f1f886aff5ca24cacaa2a713a620f23fd41dd2bc53394e0014bb826f4002'}
-  - {seq: 4, role: markers, filename: assets/KR3ed092_004.markers.yaml, hash: 'sha256:ad130178a0a7f423c9cfec21e867f5b204b85a5fd9eae6a9855da17e23e84235'}
+  - {seq: 1, role: markers, filename: assets/KR3ed092_001.markers.yaml, hash: 'sha256:931120beeed949a0463c5adf7ab678c1246e49299b4779a757f1b4152b410c46'}
+  - {seq: 2, role: markers, filename: assets/KR3ed092_002.markers.yaml, hash: 'sha256:9fe3884b19245b24cda2b22aea498c272f771772c6ce70a61b61c0d31d4e6418'}
+  - {seq: 3, role: markers, filename: assets/KR3ed092_003.markers.yaml, hash: 'sha256:c32b11f7902e7760ede581723149433fd0af0b623e13da616d04effbf1d8eb54'}
+  - {seq: 4, role: markers, filename: assets/KR3ed092_004.markers.yaml, hash: 'sha256:1cc3efac4cc379578e33ff72163ac46c2255e60f902ed0c8e6876e31a58836eb'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2759,7 +2759,7 @@ table_of_contents:
   label: 痘後落痂諸方
   type: section
   level: 3
-hash: sha256:342613cf643bbddaabb608b73c10e22a6f80665dc4b5162632e88ba09d19ade7
+hash: sha256:ccb4ce22af47043b8445f72de580938b41c0ccc549d3278ad93da581a7feac51
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
