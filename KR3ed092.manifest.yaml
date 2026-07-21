@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed092_000.yaml, hash: 'sha256:d0de67160ce699a3245c2ba852aa05314ff1381c9b48517785f83da1d4fd488e'}
+  - {seq: 0, filename: KR3ed092_000.yaml, hash: 'sha256:9b2c2d952f1ceeeb625bcae0d19c0f73111cdec398242442e93191508d112820'}
   - {seq: 1, filename: KR3ed092_001.yaml, hash: 'sha256:8f7769066db02c79e45195aa12c1d11fcf4abc49d9c707e1868b271d7e880dcf'}
   - {seq: 2, filename: KR3ed092_002.yaml, hash: 'sha256:dc0388c27330d99ba1a565d9b7c3479a568152c87d39797901d5031fd70d32d0'}
   - {seq: 3, filename: KR3ed092_003.yaml, hash: 'sha256:165aafd2831d09a582e410c9c1eb2ddb706191e610d0d9c5afb5253983b2fbfc'}
   - {seq: 4, filename: KR3ed092_004.yaml, hash: 'sha256:11c492e5afb333f1334d7ad1a0af3170c5a5067670d09851fe241f808039054a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed092_000.markers.yaml, hash: 'sha256:6884c7b37782e222adbc90cfa759a900c31238ef9491cd9d4717398d6c514fad'}
+  - {seq: 0, role: markers, filename: assets/KR3ed092_000.markers.yaml, hash: 'sha256:24e5136da5fcb3a1860392072b9890601d5b5bce5ef02340df8755d697957019'}
   - {seq: 1, role: markers, filename: assets/KR3ed092_001.markers.yaml, hash: 'sha256:931120beeed949a0463c5adf7ab678c1246e49299b4779a757f1b4152b410c46'}
   - {seq: 2, role: markers, filename: assets/KR3ed092_002.markers.yaml, hash: 'sha256:9fe3884b19245b24cda2b22aea498c272f771772c6ce70a61b61c0d31d4e6418'}
   - {seq: 3, role: markers, filename: assets/KR3ed092_003.markers.yaml, hash: 'sha256:c32b11f7902e7760ede581723149433fd0af0b623e13da616d04effbf1d8eb54'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed092_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 406
   label: 自序
@@ -2759,7 +2759,7 @@ table_of_contents:
   label: 痘後落痂諸方
   type: section
   level: 3
-hash: sha256:ccb4ce22af47043b8445f72de580938b41c0ccc549d3278ad93da581a7feac51
+hash: sha256:308889ddfd83a42e151f9821d39f7bfd85e253f1ffdd93864e8e64f8326e4039
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

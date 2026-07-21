@@ -17,13 +17,13 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ed092_000-jc.yaml, hash: 'sha256:e5e443c7a71a5fc09446fef8d0f701b5e4291b18556224f157a19f17f4ba5eff'}
+  - {seq: 0, filename: KR3ed092_000-jc.yaml, hash: 'sha256:012122a08b0bb003cc1621c2ac844d2fb1de5fba0d08c8e9773ea9fbe617aa92'}
   - {seq: 1, filename: KR3ed092_001-jc.yaml, hash: 'sha256:c3af1b7892962041623dae0b5fa44f76dfb2bb0b8356efc9eef98e3f282ae657'}
   - {seq: 2, filename: KR3ed092_002-jc.yaml, hash: 'sha256:f3fbe431e7814b584c4686d9509e7a785ddd1cc2827d3780513547a1d27961a7'}
   - {seq: 3, filename: KR3ed092_003-jc.yaml, hash: 'sha256:7770ba3a1f68a639c6aa72c917606d4a6179e972e0c21eff2c204ef7563d3f07'}
   - {seq: 4, filename: KR3ed092_004-jc.yaml, hash: 'sha256:df9f1d8e4e68532e8c215fa39b92233d0dc8e103ddfa61cd2119798a7faed1ca'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed092_000-jc.markers.yaml, hash: 'sha256:9c4593e198c6e00207e08fe4564b8c3cc7a9d864e00eb628640dbcc5cb24ba61'}
+  - {seq: 0, role: markers, filename: assets/KR3ed092_000-jc.markers.yaml, hash: 'sha256:72a4b606a858ff5147f2796d45dc09543caecc01e92bccafd05e070af22c1fa5'}
   - {seq: 1, role: markers, filename: assets/KR3ed092_001-jc.markers.yaml, hash: 'sha256:ecf80bd760a04e8e68b6b3b7b8087a3f33e6df2076f590386faf07f57aa0ea0b'}
   - {seq: 2, role: markers, filename: assets/KR3ed092_002-jc.markers.yaml, hash: 'sha256:c5e037a0ef282a00d7506e7bc46e017290f79954e6edf0e75c9a97fb9c951e50'}
   - {seq: 3, role: markers, filename: assets/KR3ed092_003-jc.markers.yaml, hash: 'sha256:47561145b99b40b7f061af6a5524a72bb53cd1571f83cc27e54e1951edb83fd8'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed092_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 406
   label: 自序
@@ -2759,4 +2759,4 @@ table_of_contents:
   label: 痘後落痂諸方
   type: section
   level: 3
-hash: sha256:1a9d05bcf4e8e96e13a45ed1d4e7fc66b47a8224906ef19a7b7a9d70c21e770b
+hash: sha256:5e790a42fa22221a96cc4b9a52cbda3ef580c4e6f88b7def751b696931535b62
